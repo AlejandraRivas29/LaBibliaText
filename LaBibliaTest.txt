@@ -1,4 +1,4 @@
-Estuvimos veinticuatro horas en La Granja y continuamos a Segovia.
+﻿Estuvimos veinticuatro horas en La Granja y continuamos a Segovia.
 Llegó el día que tenía señalado para reunirme con López. Fuí al
 acueducto y me senté debajo del arco 107, donde esperé la mayor parte
 del día; pero López no se presentó. Me levanté y volví a la ciudad.
@@ -2249,3 +2249,4 @@ con ella; colocado al final de un largo y angosto istmo de arena,
 casi a nivel con el mar, yergue verticalmente su abrasada cima para
 denunciar los crímenes que afean la historia de una tierra tan bella
 y majestuosa.
+
